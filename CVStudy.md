@@ -110,6 +110,83 @@
 
 # 深度学习算法基础
 
- 
+![image](https://cdn.staticaly.com/gh/1438802682/image-hosting@master/CVStudy/image.70nq6oejfps0.webp)	
 
-![image](https://cdn.staticaly.com/gh/1438802682/image-hosting@master/CVStudy/image.70nq6oejfps0.webp)
+## 从感知机到神经网络
+
+![image](https://cdn.staticaly.com/gh/1438802682/image-hosting@master/CVStudy/image.4ol4mbex4a8.webp)
+
+![image](https://cdn.staticaly.com/gh/1438802682/image-hosting@master/CVStudy/image.1tf9x1vvbdr4.webp)
+
+![image](https://cdn.staticaly.com/gh/1438802682/image-hosting@master/CVStudy/image.664dkahliv00.webp)
+
+![image](https://cdn.staticaly.com/gh/1438802682/image-hosting@master/CVStudy/image.52ydeenvytg0.webp)
+
+![image](https://cdn.staticaly.com/gh/1438802682/image-hosting@master/CVStudy/image.2nvvadkr7ew0.webp)
+
+![image](https://cdn.staticaly.com/gh/1438802682/image-hosting@master/CVStudy/image.5kl63vslxqo0.webp)
+
+![image](https://cdn.staticaly.com/gh/1438802682/image-hosting@master/CVStudy/image.7auwdxwsqy00.webp)
+
+![image](https://cdn.staticaly.com/gh/1438802682/image-hosting@master/CVStudy/image.12xr041m5jxc.webp)
+
+## 神经网络
+
+### DeepNeuralNetwork
+
+![image](https://cdn.staticaly.com/gh/1438802682/image-hosting@master/CVStudy/image.1zkx1p4kkr28.webp)
+
+![image](https://cdn.staticaly.com/gh/1438802682/image-hosting@master/CVStudy/image.1uvg5tvxvr8.webp)
+
+![image](https://cdn.staticaly.com/gh/1438802682/image-hosting@master/CVStudy/image.730lpxqidb80.webp)
+
+### 神经网络的激活函数
+
+第一步：线性回归
+
+![image](https://cdn.staticaly.com/gh/1438802682/image-hosting@master/CVStudy/image.275yif9h91a8.webp)
+
+第二步：激活
+
+![image](https://cdn.staticaly.com/gh/1438802682/image-hosting@master/CVStudy/image.26weobey0jb4.webp)
+
+![image](https://cdn.staticaly.com/gh/1438802682/image-hosting@master/CVStudy/image.1js6u3fvsmdc.webp)
+
+![image](https://cdn.staticaly.com/gh/1438802682/image-hosting@master/CVStudy/image.38bvy9ifstk0.webp)
+
+![image](https://cdn.staticaly.com/gh/1438802682/image-hosting@master/CVStudy/image.10ibb0d1bduo.webp)
+
+![image](https://cdn.staticaly.com/gh/1438802682/image-hosting@master/CVStudy/image.1zzvubhjlvnk.webp)
+
+![image](https://cdn.staticaly.com/gh/1438802682/image-hosting@master/CVStudy/image.6qzuqugtzbs0.webp)
+
+### Feedforward NN
+
+![image](https://cdn.staticaly.com/gh/1438802682/image-hosting@master/CVStudy/image.1i6706sn6nnk.webp)
+
+PS：激活函数可以每一层都不同。
+
+### 神经网络是DL的有效方法
+
+![image](https://cdn.staticaly.com/gh/1438802682/image-hosting@master/CVStudy/image.6z1qcrrbugg0.webp)
+
+![image](https://cdn.staticaly.com/gh/1438802682/image-hosting@master/CVStudy/image.4bvz0a9o2fs0.webp)
+
+PS：大量的矩阵运算需要GPU加速。
+
+### 神经网络的输出层
+
+![image](https://cdn.staticaly.com/gh/1438802682/image-hosting@master/CVStudy/image.11kwtvi29qio.webp)
+
+### Deep = many hidden layer
+
+![image](https://cdn.staticaly.com/gh/1438802682/image-hosting@master/CVStudy/image.63g6dyg8acw0.webp)
+
+## BP反向神经网络算法
+
+### 回到深度学习三步走
+
+![image](https://cdn.staticaly.com/gh/1438802682/image-hosting@master/CVStudy/image.2lg1eu5bphq0.webp)
+
+![image](https://cdn.staticaly.com/gh/1438802682/image-hosting@master/CVStudy/image.5mg4i8o43io0.webp)
+
